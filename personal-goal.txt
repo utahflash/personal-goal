@@ -1,3 +1,4 @@
 target tahun ini =
     - mendapat nilai A di semua Matku
     - mengurangi bolos
+    - lebih rapi
